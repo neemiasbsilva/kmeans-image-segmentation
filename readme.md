@@ -1,4 +1,4 @@
-# Apply K-mean Technique to Plant Segmentation
+# Apply K-means Clustering Technique to Plant Segmentation
 
 
 
